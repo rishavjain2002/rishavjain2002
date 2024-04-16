@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hir2A7jXWfghAXoeY5MAdA.gif)](https://github.com/rishavjain2002/rishavjain2002)
+[![MasterHead](https://imageio.forbes.com/specials-images/imageserve/63ae0066bacde4972dcc7317/AI--Machine-learning--Hands-of-robot-and-human-touching-on-big-data-network/960x0.jpg?format=jpg&width=1440)](https://github.com/rishavjain2002/rishavjain2002)
 <h1 align="center">Hi 👋, I'm Rishav Jain</h1>
 <h3 align="center">"Crafting code, one commit at a time."</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
